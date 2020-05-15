@@ -1,9 +1,5 @@
-let b = 33;
-123456
-6667777
-aaaaaaaa
+let arr = [2,3,4,5]
 let obj = {
-    name:"shangsan",
+    name:"zhang",
     age:"22"
-
 }
