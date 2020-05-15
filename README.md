@@ -1,2 +1,3 @@
-let x = 1个亿
-let y = 2个亿
+let x = 12,
+let y = 1
+let a = 222
