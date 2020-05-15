@@ -4,4 +4,3 @@ let obj = {
     age:"22"
 }
 function fn(){}
-fun
