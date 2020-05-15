@@ -3,3 +3,4 @@ let obj = {
     name:"zhang",
     age:"22"
 }
+function fn(){}
